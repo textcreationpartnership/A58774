@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Scotlands loyalty, or, Sorrowful sighs on the death of our late soveraign His Sacred Majesty Charles II by the grace of God King of Great Britain, France and Ireland, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58774</idno><idno type="EEBO-CITATION">13553144</idno>
+  <idno type="VID">100207</idno>
+  <idno type="EEBO-PROQUEST">2240859142</idno>
+  
+            <idno type="STC">Wing S2017</idno>
+            <idno type="STC">ESTC R33721</idno>
+            <idno type="OCLC">13553144</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58774)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100207)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1557:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Scotlands loyalty, or, Sorrowful sighs on the death of our late soveraign His Sacred Majesty Charles II by the grace of God King of Great Britain, France and Ireland, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Nathaniel Thompson ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Place of publication suggested by NUC pre-1956 imprints.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  II, --  King of England, 1630-1685 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:100207:1"/>
+            <head>Scotlands Loyalty; <hi>Or, Sorrowful Sighs</hi> On the Death of our late Soveraign His Sacred Majesty; CHARLES II. By the Grace of God, KING of <hi>Great Britain, France,</hi> and <hi>Ireland,</hi> &amp;c.</head>
+            <lg>
+               <l>LEt <hi>Musick</hi> cease; yet let true Subjects Sing</l>
+               <l>Sad <hi>Ela</hi>'s Note (in Sorrow) for our King;</l>
+               <l>Whom (to the worth) no <hi>Poet</hi> can bemoan,</l>
+               <l>Though all the Seas were turn'd to <hi>Helicon.</hi>
+               </l>
+               <l>But there's no need our Sorrows to Infuse,</l>
+               <l>Or strain <hi>Elogiums</hi> from a Mournful Muse</l>
+               <l>In Stubborn Hearts; The cause of our sad Grief</l>
+               <l>Brings Floods of Tears, though in the end Relief.</l>
+               <l>Great <hi>CHARLES</hi> is Dead, who was <hi>Great Britains</hi> King,</l>
+               <l>Great in Exploits, who Trophies great did bring,</l>
+               <l>Of PEACE and Plenty to His own Three Realms;</l>
+               <l>Through storms of State, which he did turn to Calms.</l>
+               <l>Our by-past <hi>Prophesies</hi> did point Him forth,</l>
+               <l>Preceding Kings were Shadows of His worth:</l>
+               <l>Then cast up Virtues to one total sum;</l>
+               <l>
+                  <hi>Perfections Product</hi> will be found in Him.</l>
+               <l>We will Engrave His Name in <hi>Marble Pure,</hi>
+               </l>
+               <l>With Diamond of the <hi>Black-Rock,</hi> to endure</l>
+               <l>Till after Ages; that our Children may</l>
+               <l>Pay Tears (for Tribute) to His Sacred Clay,</l>
+               <l>Could Men in Arms our Sorrows stroak assail,</l>
+               <l>Or floods of Tears with Cruel <hi>Death</hi> prevail,</l>
+               <l>We'd Muster all our Forces then with speed,</l>
+               <l>And Weeping Eyes should overflow the <hi>Tweed.</hi>
+               </l>
+               <l>But sure the <hi>King of Kings</hi> hath giv'n the stroak,</l>
+               <l>And Mortals cannot Destiny revoke.</l>
+               <l>We'll kiss the Rod; though we the smart regrate,</l>
+               <l>Submitting though unto our rigid Fate.</l>
+               <pb n="2" facs="tcp:100207:2"/>
+               <l>Yet we'll breath doleful Sighs to His sad <hi>Herse,</hi>
+               </l>
+               <l>That's dipt in Tears, and <hi>Elegiack Verse;</hi>
+               </l>
+               <l>T'immortalize Great <hi>CHARLES</hi> His Royal Name,</l>
+               <l>And be <hi>Memento's</hi> on the Wings of Fame.</l>
+            </lg>
+            <lg>
+               <l>Then rest dear <hi>Saint,</hi> though Dead yet still Alive;</l>
+               <l>(Though laid in dust,) Times Age thou shalt survive:</l>
+               <l>Thou'rt mounted high above the World's Renown,</l>
+               <l>With <hi>Kings</hi> and <hi>Priests,</hi> to wear a <hi>Cross-less-Crown.</hi>
+               </l>
+               <l>And (though our Grief cannot our loss prevent)</l>
+               <l>Let this sad Verse but give our <hi>Passion</hi> vent.</l>
+            </lg>
+         </div>
+         <div type="epitaph">
+            <head>EPITAPH.</head>
+            <lg>
+               <l>
+                  <hi>HEre lyes Grave, Majestick Dust;</hi>
+               </l>
+               <l>
+                  <hi>Which (when alive) was Good and Just;</hi>
+               </l>
+               <l>
+                  <hi>Great</hi> CHARLES <hi>the Second,</hi> Britain's King;</l>
+               <l>
+                  <hi>Whose valour makes us Weep and Sing.</hi>
+               </l>
+               <l>
+                  <hi>His</hi> Crown <hi>environ'd was with Thorn,</hi>
+               </l>
+               <l>
+                  <hi>Which makes His Subjects double Mourn.</hi>
+               </l>
+               <l>
+                  <hi>By</hi> Land <hi>and</hi> Sea <hi>he did our Work:</hi>
+               </l>
+               <l>
+                  <hi>The Fear, and Terrour of the</hi> Turk.</l>
+               <l>
+                  <hi>He Peace to</hi> Europe <hi>did restore,</hi>
+               </l>
+               <l>
+                  <hi>When other</hi> Kings <hi>had given it or.</hi>
+               </l>
+               <l>Defender of the Faith, <hi>that's true.</hi>
+               </l>
+               <l>
+                  <hi>Until he bad the World adieu.</hi>
+               </l>
+               <l>
+                  <hi>Let</hi> Princes <hi>Eternize His</hi> Name;</l>
+               <l>
+                  <hi>And make his worth their</hi> Diadem.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Now since the Sighs that did Eclipse our Skie,</hi>
+               </l>
+               <l>
+                  <hi>By His Successor's Light begins to flye,</hi>
+               </l>
+               <l>
+                  <hi>O're Tears we'll Triumph; since our sore doth bring</hi>
+               </l>
+               <l>
+                  <hi>The surest Salve, which is a Lawful</hi> King.</l>
+               <l>
+                  <hi>We'll pay</hi> Allegiance <hi>due on</hi> CHARLES <hi>His score,</hi>
+               </l>
+               <l>
+                  <hi>To</hi> JAMES <hi>the Seventh, and many Millions more.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>Nathaniel Thompson</hi> at the Entrance into the <hi>Old-Spring-Garden</hi> near <hi>Charing-Cross,</hi> 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
